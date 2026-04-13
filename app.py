@@ -1,8 +1,3 @@
-
-Júnior, Adauto - Masterveda - (51) 3374-4514 <junior@masterveda.com.br>
-17:02 (há 2 minutos)
-para mim
-
 import streamlit as st
 
 st.set_page_config(page_title="Coração do Adauto", page_icon="💖")
